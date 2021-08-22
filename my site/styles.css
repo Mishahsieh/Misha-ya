@@ -1,0 +1,125 @@
+ 
+
+
+ img {
+     border-radius: 50%;
+ }
+
+ header{
+     border-style: solid;
+     border-color: black;
+     border-width: 3px;
+     margin: 100px;
+     padding: 20px;
+}
+
+body {
+    text-align: center;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 20px;
+}
+
+image {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    padding: 7px;
+}
+
+.box image {
+    width: 250px;
+    height: 250px;
+}
+
+.box p {
+    padding-top: 0%;
+    margin-top: 0px;
+}
+
+.text {
+    text-align: left;
+}
+
+.subtitle {
+    padding-top: 50px;
+}
+
+#box1 {
+    background-color: lightcoral;
+}
+
+#box2 {
+    background-color: lightpink;
+}
+
+#box3 {
+    background-color: lightsteelblue;
+}
+
+#box4 {
+    background-color: mediumpurple;
+}
+
+#box5 {
+    background-color: navajowhite;
+}
+
+.botton {
+    background-color: black;
+    border: 3px solid black;
+    color: white;
+    padding: 10px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.button:hover {
+    color: black;
+    background-color: white;
+}
+
+.fab fa-instagram {
+    background-color: white;
+    font-size: 10px 24px;
+    padding: 15px;
+    color: white;
+    border-radius: 50%;
+}
+
+.fab fa-instagram:hover {
+    background-color: white;
+    color: brown;
+    border: 3px solid brown;
+    opacity: 0.7;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
